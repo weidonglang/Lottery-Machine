@@ -1,6 +1,6 @@
 # 本地名单抽奖（老虎机动画）— 双语使用说明 / Bilingual Guide
 
-> 版本 / Version：**V3.0.0**（紫色主题｜注释与文案增强） · 更新日期 / Updated: **2025-10-20**
+> 版本 / Version：**V3.0.0** · 更新日期 / Updated: **2025-10-20**
 > 文件 / File：`本地名单抽奖.html`（单文件、离线运行 / single-file, offline）
 
 ---
